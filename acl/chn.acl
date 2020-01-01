@@ -1,13 +1,1 @@
-[proxy_all]
 
-[bypass_list]
-#api.5188ma
-104.27.182.31
-#xiaoanapp
-106.52.202.96
-#wipingking
-129.204.188.200
-#api.mobileanjian.com
-58.20.141.66
-#www.anjian.com
-58.22.105.198
